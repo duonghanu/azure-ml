@@ -68,7 +68,7 @@ services:
     ports:
       - "8080:8080"
     volumes:
-      - /Users/duong.ngv/shared-docker:/home
+      - /home:/home
 
 
 volumes:
